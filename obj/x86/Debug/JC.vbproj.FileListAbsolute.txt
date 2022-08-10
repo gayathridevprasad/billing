@@ -1,0 +1,36 @@
+D:\JC\JC\bin\Debug\JC.exe.config
+D:\JC\JC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\JC\JC\obj\x86\Debug\JC.Customer_Master.resources
+D:\JC\JC\obj\x86\Debug\JC.Dashboard.resources
+D:\JC\JC\obj\x86\Debug\JC.Main.resources
+D:\JC\JC\obj\x86\Debug\JC.Resources.resources
+D:\JC\JC\obj\x86\Debug\JC.Product_Master.resources
+D:\JC\JC\obj\x86\Debug\JC.Report.resources
+D:\JC\JC\obj\x86\Debug\JC.Sales.resources
+D:\JC\JC\obj\x86\Debug\JC.view.resources
+D:\JC\JC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\JC\JC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\JC\JC\bin\Debug\JC.exe
+D:\JC\JC\bin\Debug\JC.pdb
+D:\JC\JC\bin\Debug\JC.xml
+D:\JC\JC\obj\x86\Debug\JC.exe
+D:\JC\JC\obj\x86\Debug\JC.xml
+D:\JC\JC\obj\x86\Debug\JC.pdb
+I:\my projects\JC\JC\bin\Debug\JC.exe.config
+I:\my projects\JC\JC\obj\x86\Debug\JC.exe
+I:\my projects\JC\JC\obj\x86\Debug\JC.xml
+I:\my projects\JC\JC\obj\x86\Debug\JC.pdb
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.vbproj.AssemblyReference.cache
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.Customer_Master.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.Dashboard.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.Main.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.Resources.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.Product_Master.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.Report.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.Sales.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.view.resources
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.vbproj.GenerateResource.cache
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.vbproj.CoreCompileInputs.cache
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.exe
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.xml
+F:\g DRIVE\Desktop folder\JC\obj\x86\Debug\JC.pdb
